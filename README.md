@@ -5,8 +5,8 @@
 <a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">PyGame</a>
 <a href="https://www.youtube.com/watch?v=_GikMdhAhv0&t=49s">How To Instal</a>
 
-<img src="file:///C:/Users/mfiel1291/Desktop/Undead%20Awakening/startscreen.png">
-<img src="file:///C:/Users/mfiel1291/Desktop/Undead%20Awakening/Level%201.png">
+<img src="">
+<img src="">
 <P>
   Paragraph 1
   
