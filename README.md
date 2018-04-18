@@ -10,7 +10,7 @@
 <P>
   Paragraph 1
   
-  </p> One player(Alex)or with a second player(Shawn) are trapped in a situation in a destroyed city against zombies, created by a lab full of scientists experimenting on the dead which created an outbreak of zombies.Zombies soon enough consume the whole world, in order to finally kill off all the zombies you must defeat the big boss zombie. 
+  </p> Player One(Alex) trapped in a situation in a destroyed city against zombies, created by a lab full of scientists experimenting on the dead which created an outbreak of zombies.Zombies soon enough consume the whole world, in order to finally kill off all the zombies you must defeat the big boss zombie. 
  <P>
   Paragraph 2
   
