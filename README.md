@@ -7,6 +7,7 @@
 <h2> Gameplay</h2>
 <img src="https://github.com/assassinlife2003/UNDEADAwakening/blob/master/startscreen.png">
 <img src="https://github.com/assassinlife2003/UNDEADAwakening/blob/master/Level%201.png">
+<img src="https://github.com/assassinlife2003/UNDEADAwakening/blob/master/level%202.png">
 <P>
   Paragraph 1
   
